@@ -65,13 +65,13 @@
 2. 中后期：无线传输，通量网络；短距离：（TE）凛冰管道
 
 # 自动化产矿
-*视频请参考braftL的实况*
+*也可参考braftL的实况*
 1. 定时器+工厂投掷器（定量投掷）
    - 自动爆炸
       - TNT箭杆吹箭
       - TNT复制机
       - TNT发电机
-     ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/78468bef-c008-4c08-aa94-230977851f0c)
+   ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/78468bef-c008-4c08-aa94-230977851f0c)
 2. 挖掘
    - AA的放置器破坏器（不产生掉落物，提高TPS）
    - 工厂破坏器（工程师的装饰）
@@ -138,6 +138,7 @@
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/2fbaa4d6-8935-4395-b8d1-a451748e1d0b)
 
 ME二合一接口
+
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/385b2d68-6b97-49be-873e-7f819c558dad)
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/492f4118-0683-4c6c-bb27-f2e295ffe386)
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/56d5a806-e33d-4d62-b8b9-8f2472cf1ff0)
