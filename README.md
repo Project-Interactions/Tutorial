@@ -32,14 +32,15 @@
 13. 工业先锋自动刷怪器-凋零机-刷怪房·改
 14. ae阶段无限水和无限圆石
 15. 前期挖掘矿物精华的铲头材料：黑曜石->匠魂炉合金合成
-16. [源质种子种植建议](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
-17. [五种恶魔意志刷法](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
-18. [狱火熔炉自动化合成](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
-19. 完美温室种神秘农业
-20. 产魔：火红莲列阵/产魔多方块（3×3×3/块）->[贪食花](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)/斑斓花->勿落草
-21. [压缩空间自动合成](https://www.bilibili.com/video/BV1nh4y1U7q6)
-22. [铸造机自动化合成](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
-23. 太阳晶体可以用物品路由器跨纬度发送到天境合成（不会卡住不合成，前提是没打烈阳巨灵）
+16. [铸造机自动化合成](https://github.com/Project-Interactions/Tutorial/#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
+17. [源质种子种植建议](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
+18. [五种恶魔意志刷法](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
+19. [狱火熔炉自动化合成](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
+20. 完美温室种神秘农业
+21. 产魔：火红莲列阵/产魔多方块（3×3×3/块）->[贪食花](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)/斑斓花->勿落草
+22. [压缩空间自动合成](https://www.bilibili.com/video/BV1nh4y1U7q6)
+23. [铸造机自动化合成](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
+24. 太阳晶体可以用物品路由器跨纬度发送到天境合成（不会卡住不合成，前提是没打烈阳巨灵）
 
 
 # 发电
@@ -149,14 +150,17 @@ ME二合一接口
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/4cc2b3dc-1d6c-4b31-ac44-6b79285318ec)
 
 循环收获小麦和胡萝卜
+
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/171868eb-dc3c-4b97-a81d-e5e56b6c0408)
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/051e6ffc-43d0-4f01-b386-90b66f366f51)
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/795c7aa9-5811-4767-95e0-1ad559d50072)
 
 按需配置Xnet控制器
+
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/db971dc3-a833-4a4d-95c9-bd2d9ab33eb7)
 
 物品路由器放置
+
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/d92328fd-7120-4241-9a3a-0d503feec19a)
 ![image](https://github.com/Project-Interactions/Tutorial/assets/103164772/422bbfe0-dc4c-4005-9e09-4480eff845ca)
 
