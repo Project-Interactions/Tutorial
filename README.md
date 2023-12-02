@@ -41,6 +41,7 @@
 22. [压缩空间自动合成](https://www.bilibili.com/video/BV1nh4y1U7q6)
 23. [铸造机自动化合成](https://github.com/Project-Interactions/Tutorial/blob/main/README.md#%E9%93%B8%E9%80%A0%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%90%88%E6%88%90)
 24. 太阳晶体可以用物品路由器跨纬度发送到天境合成（不会卡住不合成，前提是没打烈阳巨灵）
+25. 可以合成不稳定金属斧（由附属提供），效果和EXU1中的治愈之斧效果一样，可以回复饱食度
 
 
 # 发电
